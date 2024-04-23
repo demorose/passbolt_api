@@ -134,3 +134,5 @@ tilt_modules*
 .phpunit.result.cache
 # Vim filems
 *.vim
+
+.clever.json
